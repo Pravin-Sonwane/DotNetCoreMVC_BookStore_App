@@ -5,3 +5,6 @@
 /.vs
 /BookStoreApp/.vs/BookStoreApp
 /BookStoreApp/obj
+/BookStoreApp/.vs/ProjectEvaluation
+/BookStoreApp/bin/Debug/net9.0
+/BookStoreApp/BookStoreApp.csproj.user
